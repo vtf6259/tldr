@@ -17,7 +17,7 @@
 
 - Convert an audio file specifying which language the audio file is in to reduce conversion time:
 
-`whisper {{path/to/audio.mp3}} --language {{english}}`
+`whisper {{path/to/audio.mp3}} --language {{English}}`
 
 - Convert an audio file and save it to a specific location:
 
